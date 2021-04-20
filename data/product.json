@@ -1,0 +1,28 @@
+{
+    "entries": [
+        {
+            "productId": 1,
+            "name": "SGML",
+            "creationDate": "1/1/1970",
+            "utility": "pa ná",
+            "wiki": "Mucha",
+            "imgUrl":"./img/SGML.svg",
+            "collaboratedPersons": [
+                1
+            ],
+            "collaboratedEntity": [1,3]
+        },
+        {
+            "productId": 2,
+            "name": "XML",
+            "creationDate": "1/1/1970",
+            "utility":"pa nada",
+            "wiki": "Poca",
+            "imgUrl":"./img/xml.jpg",
+            "collaboratedPersons": [
+                1
+            ],
+            "collaboratedEntity": [2]
+        }
+    ]
+}

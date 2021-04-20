@@ -1,0 +1,27 @@
+{
+    "defaultUsers": [
+        {
+            "username": "x",
+            "password": "x",
+            "rols": [
+                "read",
+                "write"
+            ]
+        },
+        {
+            "username": "y",
+            "password": "y",
+            "rols": [
+                "read"
+            ]
+        },
+        {
+            "username": "z",
+            "password": "z",
+            "rols": [
+                "read",
+                "write"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "entries": [
+        {
+            "entityId": 1,
+            "name": "IBM",
+            "creationDate": "1/1/1970",
+            "wiki": "wwww",
+            "imgUrl":"./img/ibm.jpg",
+            "collaboratedPersons": [
+                2
+            ]
+        },
+        {
+            "entityId": 2,
+            "name": "W3C",
+            "creationDate": "",
+            "wiki": "",
+            "imgUrl":"./img/w3c.png",
+            "collaboratedPersons": [
+                1
+            ]
+        },
+        {
+            "entityId": 3,
+            "name": "CERN",
+            "creationDate": "",
+            "wiki": "",
+            "imgUrl":"./img/cern.jpg",
+            "collaboratedPersons": [
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "entries": [
+        {
+            "personId": 1,
+            "name": "Vannervar Bush",
+            "birth": "01/01/1970",
+            "death": "01/01/1970",
+            "wiki": "wiki test",
+            "imgUrl":"./img/vannervar.jpg"
+        },
+        {
+            "personId": 2,
+            "name": "Nuller bush",
+            "birth": "01/01/1970",
+            "death": "01/01/1970",
+            "wiki": "test",
+            "imgUrl":"./img/vannervar.jpg"
+        }
+    ]
+}
